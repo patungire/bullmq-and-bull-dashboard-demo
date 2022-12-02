@@ -46,12 +46,12 @@ const { addQueue, removeQueue, setQueues, replaceQueues } = createBullBoard({
 
 //define some data to post into queues
 const queueData = { test: 123,
-  name: 'patricia',
+  name: 'Tina',
   reason: 'just a demo'
 }
 
 const queueData1 = { test: 143,
-  name: 'ssebaggala',
+  name: 'Turner',
   reason: 'new job repeats'
 }
 //define a job name
